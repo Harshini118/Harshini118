@@ -53,3 +53,14 @@ Integrated Hugging Face transformer models and FastAPI endpoints into data workf
 ## What I Am Building Next
 
 I am continuing to sharpen my work in predictive modeling, data products, and full-stack analytics tools. I am especially excited by projects that turn messy real-world datasets into clean, usable systems for decision-making.
+
+## Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
