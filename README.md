@@ -50,23 +50,6 @@ Collaborated with an ACM Projects team to train a PyTorch convolutional neural n
 
 Integrated Hugging Face transformer models and FastAPI endpoints into data workflows that extract and validate structured clinical trial metadata from unstructured protocol documents.
 
-## GitHub Stats
+## What I Am Building Next
 
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Harshini118&theme=transparent&show_icons=true&rank_icon=github&hide_border=true" alt="Harshini's GitHub stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini118&theme=transparent&hide_border=true" alt="Harshini's GitHub streak stats" />
-</p>
-
-<p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini118&theme=transparent&layout=compact&hide_border=true&langs_count=8" alt="Harshini's top languages" />
-</p>
-
-## Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/Harshini118/Harshini118/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+I am continuing to sharpen my work in predictive modeling, data products, and full-stack analytics tools. I am especially excited by projects that turn messy real-world datasets into clean, usable systems for decision-making.
